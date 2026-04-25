@@ -1,0 +1,13 @@
+{
+  "name": "solana-birdeye-sniper-radar",
+  "version": "1.0.0",
+  "description": "AI-powered meme gem sniper for Solana using Birdeye API",
+  "main": "sniper_radar.js",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.0.0"
+  },
+  "scripts": {
+    "start": "node sniper_radar.js"
+  }
+}
